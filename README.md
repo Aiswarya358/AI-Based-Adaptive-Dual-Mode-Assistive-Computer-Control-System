@@ -223,6 +223,28 @@ Kerala, India
 
 ---
 
+---
+
+## 📸 Project Screenshots
+
+### Cursor Movement
+
+![Cursor Movement](screenshots/Cursor%20moving.png)
+
+### Right Click Action
+
+![Right Click](screenshots/Right%20Click.png)
+
+### Virtual Keyboard Activation
+
+![Keyboard Activation](screenshots/Keyboard%20Activation.png)
+
+### Screenshot Capture
+
+![Screenshot](screenshots/screenshot.png)
+
+---
+
 ## 🎓 Academic Project
 
 This project was developed as part of the B.Tech Computer Science and Engineering (AI & ML) curriculum and demonstrates the practical application of Artificial Intelligence, Computer Vision, and Accessibility-Focused Human–Computer Interaction.
